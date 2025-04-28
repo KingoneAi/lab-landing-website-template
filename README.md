@@ -1,4 +1,4 @@
-Visit **[xingchi-lab.voidide.com](http://xingchi-lab.voidide.com)** 🚀
+Visit **[kingoneai.github.io/lab-landing-website-template](https://kingoneai.github.io/lab-landing-website-template)** 🚀
 
 <h1 align="center">Lab Website Template</h1>
 <p align="center">
