@@ -1,32 +1,32 @@
-Visit **[kingoneai.github.io/lab-landing-website-template](https://kingoneai.github.io/lab-landing-website-template)** 🚀
+访问 **[kingoneai.github.io/lab-landing-website-template](https://kingoneai.github.io/lab-landing-website-template)** 🚀
 
-<h1 align="center">Lab Website Template</h1>
+<h1 align="center">实验室主页网站快速搭建模板</h1>
 <p align="center">
-<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/images/share.jpg?raw=true" alt="Lab Website Template">
+<img height="200" src="https://raw.githubusercontent.com/kingone/lab-landing-website-template/main/images/share.jpg?raw=true" alt="实验室网站模板">
 </p>
 
-Lab Website Template (LWT) is an easy-to-use, flexible website template for labs.
-Spend less time worrying about managing a website and citations, and more time running your lab.
+实验室主页网站快速搭建模板（LLWT）是一个易于使用、灵活的实验室网站模板。
+让您把更少的时间花在管理网站和引用上，把更多的时间用于经营您的实验室。
 
-👇👇 **Get Started** 👇👇
+👇👇 **开始使用** 👇👇
 
-[**Documentation**](https://greene-lab.gitbook.io/lab-website-template-docs)
+[**使用文档**](https://greene-lab.gitbook.io/lab-website-template-docs)
 
-## Key Features
+## 主要特点
 
-- 🤖 Based on Git, GitHub, and Jekyll.
-- 📜 Automatically generated citations from simple identifiers (DOI, PubMed, ORCID, and many more) using Manubot. E.g. `doi:1234/5678` -> `title`, `authors`, `publisher`, `date`, etc.
-- 🧱 A comprehensive and flexible suite of pre-made components (building blocks) for structuring and styling your website:
-  - Formatted tables, code blocks, figures, and other basic elements.
-  - Citations with thumbnails and other rich details.
-  - List large sets of data with flexible filters and components.
-  - ...many more
-- 👁️ Automatic pull request previews.
-- ⚙️ Easy and automated configuration.
-- 👥 Team member pages with bios, roles, and social media links.
-- 🖋️ Blog posts with tags and rich content.
-- 📱 Works and looks good on desktop and mobile.
-- 🤝 Great documentation and support (if we do say so ourselves).
-- ... and much more!
+- 🤖 基于 Git、GitHub 和 Jekyll
+- 📜 使用 Manubot 通过简单标识符（DOI、PubMed、ORCID 等）自动生成引用。例如：`doi:1234/5678` -> `标题`、`作者`、`出版商`、`日期`等
+- 🧱 全面且灵活的预制组件（构建模块）套件，用于构建和设计您的网站：
+  - 格式化的表格、代码块、图形和其他基本元素
+  - 带有缩略图和其他丰富细节的引用
+  - 使用灵活的过滤器和组件列出大型数据集
+  - ...更多功能
+- 👁️ 自动拉取请求预览
+- ⚙️ 简单且自动化的配置
+- 👥 团队成员页面，包含简介、角色和社交媒体链接
+- 🖋️ 带有标签和丰富内容的博客文章
+- 📱 在桌面和移动设备上都能完美运行和展示
+- 🤝 优秀的文档和支持（我们自己也这么认为）
+- ...还有更多！
 
-![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
+![GitHub最后提交](https://img.shields.io/github/last-commit/kingone/lab-landing-website-template)
