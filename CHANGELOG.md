@@ -173,7 +173,7 @@ High-level comparison with pre-releases:
 - Better versioning. `CITATION.cff` file now source of truth for version, and tags/releases enforced.
 - Citation-related files in `/_data` must now be named prefixed with the cite plugin they are to be run with, e.g. `sources-2020.yaml` or `orcid-students.yaml`.
 - Folder renames for clarity and for better separation of template and user content: `/auto-cite` → `/_cite`, `/css` → `/_styles`, `/js` → `/_scripts`.
-- Rename "Tools" page to "Projects" to be more clear and general purpose.
+- Rename "Tools" page to "项目" to be more clear and general purpose.
 - Rename `extra-links` to `buttons` in `sources.yaml` files.
 - Rename `theme.scss` to `-theme.scss`.
 - Rename/repurpose components: link → button, two-col → cols, gallery → grid.
