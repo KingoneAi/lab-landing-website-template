@@ -2,7 +2,7 @@
 
 <h1 align="center">实验室主页网站快速搭建模板</h1>
 <p align="center">
-<img height="200" src="https://raw.githubusercontent.com/kingone/lab-landing-website-template/main/images/share.jpg?raw=true" alt="实验室网站模板">
+<img height="200" src="https://transport-systems.imperial.ac.uk/images/projects/deepsafe.jpg?raw=true" alt="实验室网站模板">
 </p>
 
 实验室主页网站快速搭建模板（LLWT）是一个易于使用、灵活的实验室网站模板。
@@ -29,4 +29,4 @@
 - 🤝 优秀的文档和支持（我们自己也这么认为）
 - ...还有更多！
 
-![GitHub最后提交](https://img.shields.io/github/last-commit/kingone/lab-landing-website-template)
+![GitHub最后提交](https://img.shields.io/github/last-commit/kingoneAi/lab-landing-website-template)
